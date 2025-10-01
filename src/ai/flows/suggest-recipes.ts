@@ -1,4 +1,3 @@
-// @ts-nocheck
 'use server';
 /**
  * @fileOverview Recipe suggestion flow. It takes a list of ingredients and suggests recipes.
